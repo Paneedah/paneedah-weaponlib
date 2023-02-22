@@ -1,15 +1,6 @@
-# Weapon-Lib
-Paneedah's fork of Vic's Modern Warfare's WeaponLib.
+### This has been ARCHIVED!
+_This project has been archived in favour of being merged into Paneedah's Modern Warfare (credit to Vic4Games)._
 
----
+We no longer need this to be separate! Check out and feel free to fork our Repository!
 
-### Compiling the Mod
-
-To compile WeaponLib, follow the steps!
-  1) Install Java 1.8 JDK. Verify you're running it in console using `java -version`.
-  2) Clone the repository.
-  3) Open terminal in the folder where you cloned the repository.
-  4) Run `./gradlew build`.
-  5) Wait for it to finish executing and open it in your IDE!
-  
-I have only tested it with IntelliJ. I don't know if this works on Eclipse as well, you may need to modify the build.gradle file a bit more.
+https://github.com/Paneedah/paneedah-modern-warfare
